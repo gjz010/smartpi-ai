@@ -110,7 +110,7 @@ ssh-import-id==5.7
 sympy==1.4
 systemd-python==234
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 Twisted==17.9.0
