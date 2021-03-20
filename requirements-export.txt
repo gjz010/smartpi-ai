@@ -34,7 +34,7 @@ idna==2.8
 imagesize==1.1.0
 immutables==0.6
 incremental==16.10.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 jsonpatch==1.16
 jsonpointer==1.10
 jsonschema==2.6.0
