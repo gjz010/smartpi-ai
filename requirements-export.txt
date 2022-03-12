@@ -58,7 +58,7 @@ oauthlib==2.0.6
 olefile==0.45.1
 packaging==19.1
 PAM==0.4.2
-Pillow==6.0.0
+Pillow==9.0.1
 ply==3.11
 protobuf==3.11.1
 psutil==5.6.1
