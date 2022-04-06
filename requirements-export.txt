@@ -113,7 +113,7 @@ tensorboard==1.14.0
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
-Twisted==17.9.0
+Twisted==22.2.0
 typing==3.7.4
 ufw==0.35
 unattended-upgrades==0.1
